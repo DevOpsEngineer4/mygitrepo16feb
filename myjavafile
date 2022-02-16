@@ -1,2 +1,6 @@
 this is my jave file
+<<<<<<< HEAD
 this is another line by Dev A
+=======
+this is line by Developer B
+>>>>>>> a08c1882279915c41b5701f83f5bef2e33c899bb
